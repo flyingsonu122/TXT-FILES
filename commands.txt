@@ -1,6 +1,15 @@
 start .
 code .
 
+cd <FOLDER NAME>
+
+ls 
+dir
+cls or clear
+
+
+notepad <FILE NAME WITH EXTENSION>
+
 
 --------------------------------------------
 node --version

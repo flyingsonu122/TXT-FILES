@@ -1,6 +1,8 @@
 start .
 code .
 
+
+--------------------------------------------
 node --version
 npm --version
 git --version
@@ -10,4 +12,28 @@ python --version
 g++ --version
 gcc --version
 php --version
-java -version
+java -version *
+pip --version
+
+py -m django --version
+
+---------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

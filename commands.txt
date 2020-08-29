@@ -1,2 +1,13 @@
 start .
 code .
+
+node --version
+npm --version
+git --version
+code --version
+dotnet --version
+python --version
+g++ --version
+gcc --version
+php --version
+java -version

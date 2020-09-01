@@ -1,7 +1,11 @@
 start .
 code .
 
+mkdir <FOLDER NAME>
 cd <FOLDER NAME>
+cd ~
+pwd
+
 
 ls 
 dir

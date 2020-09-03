@@ -27,6 +27,8 @@ gcc --version
 php --version
 java -version *
 pip --version
+curl --version
+ruby --version
 
 py -m django --version
 

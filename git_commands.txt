@@ -1,0 +1,21 @@
+................or clone from github
+
+git clone <URL>
+
+
+
+.................or create a new repository on the command line
+
+
+echo "# react" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/flyingsonu122/react.git
+git push -u origin master
+
+...................or push an existing repository from the command line
+git remote add origin https://github.com/flyingsonu122/react.git
+git branch -M master
+git push -u origin master

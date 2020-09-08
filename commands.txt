@@ -18,6 +18,9 @@ notepad <FILE NAME WITH EXTENSION>
 --------------------------------------------
 node --version
 npm --version
+choco --version
+yarn --version
+
 git --version
 code --version
 dotnet --version

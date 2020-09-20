@@ -20,7 +20,8 @@ node --version
 npm --version
 choco --version
 yarn --version
-
+flutter --version
+gh --version
 git --version
 code --version
 dotnet --version

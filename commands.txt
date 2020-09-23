@@ -21,6 +21,7 @@ npm --version
 choco --version
 yarn --version
 flutter --version
+go version
 gh --version
 git --version
 code --version

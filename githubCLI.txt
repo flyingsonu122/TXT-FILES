@@ -1,2 +1,6 @@
 gh
 gh --version
+
+gh auth login
+
+gh repo clone flyingsonu122/C-Programming

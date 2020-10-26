@@ -19,6 +19,26 @@ SELECT * FROM products WHERE price < 9.99
 
 SELECT * FROM products WHERE book_name = "WILD"
 
+SELECT * FROM products WHERE author LIKE "%Miller%"
+
+INSERT INTO states (state,drink,year,image) VALUES ("New Jersey","Vodka",2018,"vodka.jpg")
+
+DELETE FROM `states` WHERE states.id = 33
+
+SELECT * FROM `states` WHERE state = "Delaware"
+
+UPDATE states SET drink = "Chocolate Oat Milk" WHERE state = "Delaware"
+
+DELETE FROM states WHERE state ="floraida"
+
+
+INSERT INTO `facebook_users` (`ID`, `name`, `email`, `password`) VALUES (NULL, 'chris', 'chris@gmail.com', '1244'), (NULL, 'sonu', 'sonu@gmail.com', '1111');
+
+
+
+
+
+
 
 = equality 
 <> non-equality 
@@ -32,3 +52,26 @@ BETWEEN
 IS NULL 
 AND 
 OR
+
+
+
+Aggregate Functions
+
+
+AVG() 
+COUNT()
+MAX()
+MIN()
+SUM()
+
+
+
+
+
+
+C - Create
+R - Read
+U - Update
+D - Delate
+
+

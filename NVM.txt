@@ -1,0 +1,5 @@
+nvm
+
+nvm version
+
+nvm install latest

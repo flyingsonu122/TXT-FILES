@@ -17,24 +17,44 @@ notepad <FILE NAME WITH EXTENSION>
 
 --------------------------------------------
 node --version
+
 npm --version
+
 choco -v
+
 yarn --version
+
 flutter --version
+
 go version
+
 gh --version
+
 git --version
+
 code --version
+
 dotnet --version
+
 python --version
+
 g++ --version
+
 gcc --version
+
 gatsby --version
+
 php --version
+
 java -version *
+
 pip --version
+
 curl --version
+
 ruby --version
+
+nvm version
 
 py -m django --version
 

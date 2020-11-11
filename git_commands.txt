@@ -1,3 +1,6 @@
+git status
+
+
 ................or clone from github
 
 git clone <URL>

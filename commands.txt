@@ -48,7 +48,11 @@ php --version
 
 java -version *
 
+javac --version
+
 pip --version
+
+composer --version
 
 curl --version
 

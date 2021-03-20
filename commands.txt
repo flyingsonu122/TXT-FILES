@@ -16,6 +16,9 @@ notepad <FILE NAME WITH EXTENSION>
 
 
 --------------------------------------------
+
+curl --version
+
 node --version
 
 npm --version

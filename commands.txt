@@ -1,21 +1,79 @@
 start .
 code .
 
-mkdir <FOLDER NAME>
+-------------------
+( print working directory	)
+
+pwd  
+
+----------------
+( make directory )
+
+
+mkdir <FOLDER NAME>   || 	md <FOLDER NAME>   
+
+--------------------
+( change directory )
+
+cd 	||	cd .  
 cd <FOLDER NAME>
+cd ..
 cd ~
-pwd
+cd /
+
+-----------------
+( Listing )
 
 
-ls 
-dir
+
+ls 	|| 	ls .
+ls ..
+ls ~
+ls /
+ls <FOLDER NAME>
+
+
+--------------
+( clear )
+
 cls or clear
 
+
+------------
+( copy )
+
+cp < original FILE NAME > < duplicate FILE NAME >
+
+
+-------------------
+( move )
+
+mv < FILE NAME > < FILE NAME > < FOLDER NAME >
+
+mv < FILE NAME > < FILE NAME > ..
+
+NOTE : mv command can be used for renaming a file
+
+mv < old FILE NAME > < new FILE NAME >
+
+mv < old FOLDER NAME > < new FOLDER NAME >
+
+-------------------
+( delete file )
+
+rm < FILE NAME >
+
+--------------
+( delete folder )
+
+rmdir < FOLDER  NAME >
+
+--------------
 
 notepad <FILE NAME WITH EXTENSION>
 
 
---------------------------------------------
+-----------------------
 
 curl --version
 
@@ -71,11 +129,11 @@ py -m django --version
 
 
 
-
+dir *.exe	|| dir *.pdf 	|| dir * < FILE EXTENSION >
 
 dir > dir.txt
 
-
+type < FILE NAME >
 
 type dir.txt
 

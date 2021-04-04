@@ -20,6 +20,7 @@ git remote add origin https://github.com/flyingsonu122/react.git
 git push -u origin main
 
 ...................or push an existing repository from the command line
+
 git remote add origin https://github.com/flyingsonu122/react.git
 git branch -M main
 git push -u origin main
@@ -33,3 +34,11 @@ git checkout -b patch-1
 git remote add upstream https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git
 
 git pull https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git BRANCH_NAME
+
+
+
+
+
+
+
+
